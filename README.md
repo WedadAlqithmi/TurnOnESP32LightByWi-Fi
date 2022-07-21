@@ -18,12 +18,12 @@ This is the second task for IOT path in Smart Methods summer training
 3- you can chane the name and password for the access point 
 
 ![Screenshot (632)](https://user-images.githubusercontent.com/108210044/180050620-64515f58-9a63-4d4f-9491-ce0badd9b25f.png)
-![Screenshot (633)](https://user-images.githubusercontent.com/108210044/180050629-3b7d952d-5e64-4dad-8fc5-73da4714e850.png)
+![Screenshot (635)](https://user-images.githubusercontent.com/108210044/180152729-0019a3d4-7ac9-4fb5-9c5c-40ecea06cf5a.png)
 
 
 
 4- connect your device with the access point 
-//image of the WI-FI page in my phone 
+![WhatsApp Image 2022-07-21 at 10 13 20 AM](https://user-images.githubusercontent.com/108210044/180153101-2302242e-e985-48b2-8090-49ecf7bebc01.jpeg)
 
 
 
