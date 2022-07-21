@@ -31,5 +31,6 @@ This is the second task for IOT path in Smart Methods summer training
 http://192.168.4.1/
 
 
-6- Now you can turn on/ off the light by ypur mobile 
+6- Now you can turn on/ off the light by your mobile 
 
+![179974337-2a07dbc2-c541-4e00-b22c-7e762e36e40b](https://user-images.githubusercontent.com/108210044/180242368-0040d0df-df63-4842-8f61-9dd67ff827bd.png)
